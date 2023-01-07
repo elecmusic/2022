@@ -1,0 +1,1 @@
+import{A as e}from"./Comment.f758dc8e.js";import{c as m}from"./entry-client.69a4dd4e.js";import"./Footer.13a6172c.js";function a(){return m(e,{album_id:"shelley-parker-2022-03-25"})}export{a as default};
